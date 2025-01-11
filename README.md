@@ -20,14 +20,6 @@ Este proyecto implementa un sistema de detección de fraude en tarjetas de créd
 
 ## 📂 Estructura del Proyecto
 
-```
-creditcard-deploy/
-├── main.py                 # Archivo principal para ejecutar la app Streamlit
-├── morosos_credit_card.py  # Módulo que incluye funciones para cargar el modelo y realizar predicciones
-├── requirements.txt        # Lista de dependencias necesarias
-└── README.md               # Documentación del proyecto
-```
-
 ---
 
 ## 🛠️ Instalación

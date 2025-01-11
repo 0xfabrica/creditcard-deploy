@@ -1,4 +1,3 @@
-```markdown
 # Credit Card Fraud Detection with Streamlit
 
 Este proyecto implementa un sistema de detección de fraude en tarjetas de crédito utilizando aprendizaje automático. La aplicación está desarrollada con **Streamlit** para proporcionar una interfaz interactiva y fácil de usar.

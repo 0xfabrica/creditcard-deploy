@@ -95,5 +95,3 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 Desarrollado por [0xfabrica](https://github.com/0xfabrica).  
 Si tienes alguna pregunta, no dudes en contactarme.
 ```
-
-Copia y pega este contenido directamente en el archivo `README.md` de tu repositorio. 🚀

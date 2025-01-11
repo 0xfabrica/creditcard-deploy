@@ -17,10 +17,6 @@ Este proyecto implementa un sistema de detección de fraude en tarjetas de créd
 
 ---
 
-## 📂 Estructura del Proyecto
-
----
-
 ## 🛠️ Instalación
 
 1. Clona este repositorio:
